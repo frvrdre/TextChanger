@@ -40,10 +40,13 @@ button {
     color: white;
     cursor: pointer;
     transition: 0.2s;
+    
+    
 }
 
 /* HOVER EFFECT */
 button:hover {
     color: rgb(119, 83, 119);
     transform: scale(1.05);
+    box-shadow: 4px 5px rgb(119, 83, 119);
 }
