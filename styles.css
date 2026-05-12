@@ -44,9 +44,13 @@ button {
     
 }
 
-/* HOVER EFFECT */
+/* BUTTON EFFECTS */
 button:hover {
     color: rgb(119, 83, 119);
     transform: scale(1.05);
     box-shadow: 4px 5px rgb(119, 83, 119);
+}
+
+button:active {
+  transform: scale(0.95);
 }
