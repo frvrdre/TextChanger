@@ -1,0 +1,20 @@
+{
+  "name": "text-changer",
+  "version": "1.0.0",
+  "description": "A simple interactive web project built with HTML, CSS, and JavaScript",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "javascript",
+    "interactive"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vercel/analytics": "^1.3.1"
+  }
+}
